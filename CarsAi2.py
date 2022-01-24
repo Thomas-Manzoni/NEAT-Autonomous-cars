@@ -411,7 +411,7 @@ def eval_genomes(genomes, config):
                 if trak.points[i][2] == 1:
                    #trak.points[i][2] = 2
                    trak.change_traf(i)
-                   print("GREEN LIGHT BITCH!")
+                   print("GREEN LIGHT!")
                    break
                
         for i in range(10): # INGLOBA IN QUELLO SOTTO
